@@ -1,0 +1,44 @@
+START
+  |
+  v
+[Uruchom aplikacje]
+  |
+  v
+{Zalogowany?}
+  |         \
+  |TAK       \NIE
+  v           v
+[Panel]   [Logowanie/Rejestracja]
+  |           |
+  |           v
+  |       {Dane poprawne?}
+  |           |        \
+  |           |TAK      \NIE
+  |           v          v
+  |        [Panel]   [Blad + ponow]
+  |           |
+  v           v
+[Sprawdz dostepnosc miejsc]
+  |
+  v
+{Sa wolne miejsca?}
+  |         \
+  |TAK       \NIE
+  v           v
+[Wybierz miejsce]   [Komunikat: brak miejsc]
+  |                 |
+  v                 v
+[Wybierz czas rezerwacji]  [Koniec / odswiez]
+  |
+  v
+{Miejsce nadal wolne?}
+  |         \
+  |TAK       \NIE
+  v           v
+[Potwierdz rezerwacje]  [Komunikat: zajete]
+  |                      |
+  v                      v
+[Rezerwacja zapisana]  [Powrot do listy]
+  |
+  v
+END

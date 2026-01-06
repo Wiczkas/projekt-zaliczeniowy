@@ -1,0 +1,19 @@
+i. Inspiracje (słowa, skojarzenia, pomysły)
+Parking uczelni, brak miejsc, godziny szczytu, kolejki samochodów, stres przed zajęciami, rezerwacja online, dostępność w czasie rzeczywistym.
+
+ii. Krótka lista elementów projektu
+Ekran logowania użytkownika.
+Widok mapy lub listy miejsc parkingowych.
+System rezerwacji miejsca na określony czas.
+Informacje o dostępności miejsc.
+
+iii. Wstępne dane wejściowe
+Lista parkingów na terenie uczelni.
+Lista miejsc parkingowych.
+Lista użytkowników.
+Lista dostępnych godzin rezerwacji.
+
+iv. Lista źródeł pomysłu
+Własne doświadczenia z parkowaniem na uczelni.
+Obserwacja problemów studentów i pracowników.
+Rozmowy ze znajomymi dojeżdżającymi samochodem.

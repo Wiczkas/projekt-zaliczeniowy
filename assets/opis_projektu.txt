@@ -1,0 +1,3 @@
+Projekt dotyczy aplikacji umożliwiającej rezerwowanie miejsc parkingowych na terenie uczelni. Rozwiązuje problem braku wolnych miejsc oraz chaosu podczas parkowania w godzinach szczytu.
+Odbiorcami są studenci i pracownicy uczelni, którzy dojeżdżają samochodem.
+Aplikacja pozwoli sprawdzić dostępność miejsc i zarezerwować je na określony czas.
